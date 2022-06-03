@@ -1,7 +1,7 @@
-<h2>Hi there, Víctor here 👋 </h2>
+<h2>Hello World, Víctor here  </h2>
 
-<p>I am a programmer :computer: from Spain :es: living in Berlin.:de:</p>
-<p>Currently looking for a job while I continue to practice and learn on my own (thanks Udemy).</p>
+<p>I am a programmer :computer: from Spain 😎 living in Berlin.:de:</p>
+<p>Currently looking for a job :mag: while I continue to practice and learn on my own (thanks Udemy :pray:).</p>
 
 
 
