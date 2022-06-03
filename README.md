@@ -23,7 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 
   </a> 
-   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5](https://getbootstrap.com/">
+   <a href="https://getbootstrap.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Boostrap" alt="bootstrap" width="40" height="40"/>&nbsp;
 
   </a> 
