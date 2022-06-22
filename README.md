@@ -1,6 +1,6 @@
 <h2>Hello World, Víctor here  </h2>
 
-<p>I am a programmer :computer: from Spain 😎 living in Berlin.:de:</p>
+<p>I am a Developer :computer: from Spain 😎 living in Berlin.:de:</p>
 <p>Currently looking for a job :mag: while I continue to practice and learn on my own (thanks Udemy :pray:).</p>
 
 
