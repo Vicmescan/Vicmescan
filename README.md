@@ -1,6 +1,6 @@
 <h2>Hello World, Víctor here  </h2>
 
-<p>I am a frontend developer with a strong foundation in HTML and CSS, as well as a solid understanding of JavaScript. Excited to learn and grow as a developer, and eager to be part of an agile team.</p>
+<p>I'm a frontend developer with solid knowledge in HTML5, CSS3 and JavaScript, who enjoys creating and modeling applications with React. Excited to learn and grow as a developer, and eager to be part of an agile team.</p>
 <p>I enjoy working in a team. My way of working is pro-active, structured and solution-oriented. I like to be part of the development, suggesting ideas and offering help when needed. I like to translate designs and user stories into high quality code and I am very interested in technology, usability and increasing my knowledge.</p>
 
 
