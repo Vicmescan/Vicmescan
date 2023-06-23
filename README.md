@@ -2,13 +2,14 @@
 
 <p>I'm a frontend developer with solid knowledge in HTML5, CSS3 and JavaScript, who enjoys creating and modeling applications with React. Excited to learn and grow as a developer</p>
 <br></br>
-<br></br>
+
 <hr/>
 
 
 <div id="header" align="center">
   <img src="https://github.com/Vicmescan/Vicmescan/assets/84445742/b27171f4-f390-4593-86ca-c49baee23400" />
 </div>
+<br></br>
 
 ### :hammer_and_wrench: Languages and Tools:
 <div>
