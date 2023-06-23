@@ -1,6 +1,9 @@
 <h2>Hello World, Víctor here  </h2>
 
 <p>I'm a frontend developer with solid knowledge in HTML5, CSS3 and JavaScript, who enjoys creating and modeling applications with React. Excited to learn and grow as a developer</p>
+<br></br>
+<br></br>
+<hr/>
 
 
 <div id="header" align="center">
