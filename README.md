@@ -28,7 +28,7 @@ custom integrations and API-based workflows.</p>
 </a>
 
 <a href="https://twig.symfony.com/">
-<img src="https://github.com/devicons/devicon/blob/master/icons/twig/twig-original.svg" title="Twig" alt="Twig" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/Twig-8CC84B?style=for-the-badge&logo=twig&logoColor=white"/>&nbsp;
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
