@@ -1,10 +1,16 @@
-<h2>Hello World, Víctor here  </h2>
+<p>Hello World, Víctor here 👋</p>
 
-<p>Shopware developer with over 2 years of experience building and customizing e-commerce stores. 
-I work mainly with Shopware 6, Twig, SCSS, JavaScript and PHP, implementing storefront features, 
-custom integrations and API-based workflows.</p>
+<p>
+Shopware developer with over 2 years of experience building and customizing e-commerce stores.
+</p>
 
-<p>Interested in clean solutions, performance and continuous learning.</p>
+<p>
+Working mainly with Shopware 6, Twig, SCSS, JavaScript and PHP. I focus on storefront customization, API integrations and solving project-specific requirements.
+</p>
+
+<p>
+Interested in clean solutions, performance and writing maintainable code.
+</p>
 <br></br>
 
 <hr/>
